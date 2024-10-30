@@ -1,8 +1,8 @@
 <?php 
 
-require_once 'assets/inc/navbar.php';
+require_once 'assets/inc/Navbar.php';
 require_once 'assets/inc/PageHeader.php';
-require_once 'assets/inc/footer.php';
+require_once 'assets/inc/Footer.php';
 
 ?>
 <!doctype html>
