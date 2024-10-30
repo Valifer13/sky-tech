@@ -14,7 +14,7 @@ require_once 'assets/inc/Footer.php';
         <meta name="description" content="">
 
         <!-- site title -->
-        <title>Sky Tech | About</title>
+        <title>Sky Tech | Tentang</title>
 
         <!-- place favicon.ico in the root directory -->
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -33,7 +33,7 @@ require_once 'assets/inc/Footer.php';
 
     <body>
         <?= $Navbar ?>
-        <?= PageHeader('Tentang Perusahaan Kami', 'Tentang Kami', 'about') ?>
+        <?= PageHeader('Tentang Perusahaan Kami', 'about', 'Tentang Kami') ?>
         <!-- content start -->
 
         <section class="about-section-2 pt-130 pb-130">
@@ -91,7 +91,7 @@ require_once 'assets/inc/Footer.php';
                             <span class="number">01</span>
                             <h3 class="title">Konsultasi Bisnis</h3>
                             <p>Layanan konsultasi untuk membantu perusahaan merancang strategi bisnis, meningkatkan efisiensi operasional, dan mencapai tujuan jangka panjang.</p>
-                            <a href="about.html" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
+                            <a href="about.php" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -99,7 +99,7 @@ require_once 'assets/inc/Footer.php';
                             <span class="number">02</span>
                             <h3 class="title">Pengembangan Perangkat Lunak</h3>
                             <p>Pengembangan aplikasi dan perangkat lunak yang inovatif untuk mendukung operasi bisnis dan memenuhi kebutuhan teknologi modern.</p>
-                            <a href="about.html" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
+                            <a href="about.php" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -107,7 +107,7 @@ require_once 'assets/inc/Footer.php';
                             <span class="number">03</span>
                             <h3 class="title">Solusi Digital</h3>
                             <p>Layanan digital termasuk desain web, pemasaran digital, dan pengelolaan media sosial untuk meningkatkan kehadiran online dan engagement klien.</p>
-                            <a href="about.html" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
+                            <a href="about.php" class="read-more">Baca Lebih<i class="fa-sharp fa-regular fa-chevrons-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -245,7 +245,7 @@ require_once 'assets/inc/Footer.php';
                                 </ul>
                             </div>
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">John Smith</a></h3>
+                                <h3 class="title"><a href="team-details.php">John Smith</a></h3>
                                 <span>Ui/Ux Designer</span>
                             </div>
                         </div>
@@ -271,7 +271,7 @@ require_once 'assets/inc/Footer.php';
                                 </ul>
                             </div>
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">William Edward</a></h3>
+                                <h3 class="title"><a href="team-details.php">William Edward</a></h3>
                                 <span>Project Manager</span>
                             </div>
                         </div>
@@ -297,7 +297,7 @@ require_once 'assets/inc/Footer.php';
                                 </ul>
                             </div>
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">John Doe</a></h3>
+                                <h3 class="title"><a href="team-details.php">John Doe</a></h3>
                                 <span>Product Designer</span>
                             </div>
                         </div>
@@ -323,7 +323,7 @@ require_once 'assets/inc/Footer.php';
                                 </ul>
                             </div>
                             <div class="team-content">
-                                <h3 class="title"><a href="team-details.html">Michael Brown</a></h3>
+                                <h3 class="title"><a href="team-details.php">Michael Brown</a></h3>
                                 <span>Web Developer</span>
                             </div>
                         </div>
