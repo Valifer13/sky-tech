@@ -13,7 +13,7 @@ require_once 'assets/inc/footer.php';
         <meta name="description" content="">
 
         <!-- site title -->
-        <title>sky tech</title>
+        <title>Sky Tech</title>
 
         <!-- place favicon.ico in the root directory -->
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -31,10 +31,10 @@ require_once 'assets/inc/footer.php';
     </head>
 
     <body>
-        <?= $navbar ?>
+        <?= $Navbar ?>
         <!-- content start -->
 
         <!-- content end -->
-         <?= $footer ?>
+         <?= $Footer ?>
     </body>
 </html>
