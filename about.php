@@ -58,7 +58,7 @@ require_once 'assets/inc/Footer.php';
                             <div class="section-heading">
                                 <h4 class="sub-heading after-none" data-text-animation="fade-in" data-duration="1.5">Tentang Perusahaan Kami</h4>
                                 <h2 class="section-title" data-text-animation data-split="word" data-duration="1">Kami memberikan solusi teknologi terbaik di kota</h2>
-                                <p>Red Company adalah perusahaan teknologi yang berfokus pada solusi inovatif untuk meningkatkan efisiensi bisnis. Kami hadir untuk membantu klien mencapai kesuksesan melalui layanan berkualitas tinggi.</p>
+                                <p>Sky Tech adalah perusahaan teknologi yang berfokus pada solusi inovatif untuk meningkatkan efisiensi bisnis. Kami hadir untuk membantu klien mencapai kesuksesan melalui layanan berkualitas tinggi.</p>
                             </div>
                             <div class="about-items">
                                 <div class="about-item">
@@ -347,7 +347,7 @@ require_once 'assets/inc/Footer.php';
                             </div>
                             <div class="testi-content">
                                 <h3 class="author">Daniel Joseph <span>Writter</span></h3>
-                                <p>Desain website yang diberikan Red Company benar-benar mencerminkan brand kami. Tim mereka memahami visi kami dan menerjemahkannya ke dalam desain yang modern dan fungsional.</p>
+                                <p>Desain website yang diberikan Sky Tech benar-benar mencerminkan brand kami. Tim mereka memahami visi kami dan menerjemahkannya ke dalam desain yang modern dan fungsional.</p>
                             </div>
                         </div>
                     </div>
@@ -358,7 +358,7 @@ require_once 'assets/inc/Footer.php';
                             </div>
                             <div class="testi-content">
                                 <h3 class="author">Victoria Madison <span>Writter</span></h3>
-                                <p>Red Company menciptakan website yang tidak hanya estetis, tetapi juga mudah digunakan oleh pelanggan kami. Perubahan ini langsung berdampak pada peningkatan konversi di bisnis kami.</p>
+                                <p>Sky Tech menciptakan website yang tidak hanya estetis, tetapi juga mudah digunakan oleh pelanggan kami. Perubahan ini langsung berdampak pada peningkatan konversi di bisnis kami.</p>
                             </div>
                         </div>
                     </div>
@@ -369,7 +369,7 @@ require_once 'assets/inc/Footer.php';
                             </div>
                             <div class="testi-content">
                                 <h3 class="author">Nicholas Thomas <span>Writter</span></h3>
-                                <p>Bekerja dengan tim Red Company sangat menyenangkan. Mereka sangat responsif dan proaktif dalam memberikan saran serta solusi yang tepat. Website baru kami sekarang lebih cepat, responsif, dan profesional.</p>
+                                <p>Bekerja dengan tim Sky Tech sangat menyenangkan. Mereka sangat responsif dan proaktif dalam memberikan saran serta solusi yang tepat. Website baru kami sekarang lebih cepat, responsif, dan profesional.</p>
                             </div>
                         </div>
                     </div>
