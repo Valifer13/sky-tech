@@ -54,8 +54,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$100</h2>
                                         <span>Fitur dasar untuk hingga 10 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>
@@ -72,8 +72,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$250</h2>
                                         <span>Fitur menengah untuk hingga 50 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>
@@ -91,8 +91,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$500</h2>
                                         <span>Premium fitur untuk hingga 100 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>
@@ -115,8 +115,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$1.000</h2>
                                         <span>Fitur dasar untuk hingga 10 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>
@@ -133,8 +133,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$2.500</h2>
                                         <span>Fitur menengah untuk hingga 50 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>
@@ -152,8 +152,8 @@ require_once 'assets/inc/Footer.php';
                                         <h2 class="price">$5.000</h2>
                                         <span>Premium fitur untuk hingga 100 pengguna</span>
                                         <div class="pricing-btn-wrap">
-                                            <a href="contact.html" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                                            <a href="pricing.html" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="contact.php" class="rr-primary-btn pricing-btn">Hubungi Kami<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                            <a href="pricing.php" class="rr-primary-btn pricing-btn">Tampilkan Detail<i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                         </div>
                                         <h3 class="feature">Fitur:</h3>
                                         <ul>

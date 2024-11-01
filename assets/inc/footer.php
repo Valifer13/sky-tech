@@ -68,7 +68,7 @@ $Footer = "
                 <div class=\"container\">
                     <div class=\"row copyright-content\">
                         <div class=\"col-md-6\">
-                            <p>© 2024 Runok. All Rights Reserved.</p>
+                            <p>Sky Tech</p>
                         </div>
                         <div class=\"col-md-6\">
                             <ul class=\"social-list\">

@@ -51,9 +51,9 @@ require_once 'assets/inc/Footer.php';
                                     <ul class="post-meta">
                                         <li><i class="fa-sharp fa-regular fa-clock"></i>25 June, 2024</li>
                                     </ul>
-                                    <h3 class="title"><a href="blog-details.html">Keamanan Siber untuk Bisnis: 7 Langkah Perlindungan Data yang Efektif</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Keamanan Siber untuk Bisnis: 7 Langkah Perlindungan Data yang Efektif</a></h3>
                                     <p>Menyajikan tren teknologi terkini yang dapat membantu bisnis tetap kompetitif, seperti kecerdasan buatan, automasi, dan analitik data. Artikel ini memberikan wawasan tentang bagaimana bisnis dapat memanfaatkan teknologi untuk meningkatkan efisiensi dan inovasi.</p>
-                                    <a href="blog-details.html" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                    <a href="blog-details.php" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -66,9 +66,9 @@ require_once 'assets/inc/Footer.php';
                                     <ul class="post-meta">
                                         <li><i class="fa-sharp fa-regular fa-clock"></i>25 June, 2024</li>
                                     </ul>
-                                    <h3 class="title"><a href="blog-details.html">Meningkatkan Efisiensi dengan Teknologi Baru</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Meningkatkan Efisiensi dengan Teknologi Baru</a></h3>
                                     <p>Temukan bagaimana teknologi terbaru dapat meningkatkan efisiensi operasional perusahaan Anda dan memberikan keunggulan kompetitif.</p>
-                                    <a href="blog-details.html" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                    <a href="blog-details.php" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -81,9 +81,9 @@ require_once 'assets/inc/Footer.php';
                                     <ul class="post-meta">
                                         <li><i class="fa-sharp fa-regular fa-clock"></i>25 June, 2024</li>
                                     </ul>
-                                    <h3 class="title"><a href="blog-details.html">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Strategi Pemasaran Digital yang Efektif di 2024</a></h3>
                                     <p>Pelajari strategi pemasaran digital yang terbukti efektif dan bagaimana menerapkannya untuk meningkatkan visibilitas dan konversi bisnis Anda.</p>
-                                    <a href="blog-details.html" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                    <a href="blog-details.php" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -97,9 +97,9 @@ require_once 'assets/inc/Footer.php';
                                         <li><i class="fa-sharp fa-regular fa-clock"></i>25 June, 2024</li>
                                         <li><i class="fa-light fa-user"></i>Post by: Admin</li>
                                     </ul>
-                                    <h3 class="title"><a href="blog-details.html">Mengoptimalkan Data untuk Keputusan Bisnis</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Mengoptimalkan Data untuk Keputusan Bisnis</a></h3>
                                     <p>Pelajari bagaimana analitik data dapat membantu Anda membuat keputusan bisnis yang lebih informatif dan strategis.</p>
-                                    <a href="blog-details.html" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                                    <a href="blog-details.php" class="rr-primary-btn">Baca Lebih <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

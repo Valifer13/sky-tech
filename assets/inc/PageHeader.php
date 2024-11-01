@@ -19,7 +19,11 @@ function PageHeader($title, $url = "#", $crumb = 'default')
             <div class=\"container\">
                 <div class=\"page-header-content text-center\">
                     <h1 class=\"title\">{$title}</h1>
-                    <h4 class=\"sub-title\"><a class=\"home\" href=\"../index.html\">Beranda </a><span></span><a class=\"inner-page\" href=\"{$url}.php\"> {$crumb}</a></h4>
+                    <h4 class=\"sub-title\">
+                        <a class=\"home\" href=\"../index.php\">Beranda </a>
+                        <span></span>
+                        <a class=\"inner-page\" href=\"{$url}.php\"> {$crumb}</a>
+                    </h4>
                 </div>
             </div>
         </section>
